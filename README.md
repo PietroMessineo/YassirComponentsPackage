@@ -1,6 +1,7 @@
 # YassirComponentsPackage
 
 YassirComponentsPackage is a comprehensive Swift Package designed to streamline the development process of the YassirMovies app. It provides a collection of views, extensions, and utilities that streamline the implementation of common UI components and data handling tasks. From customizable carousel views to convenient extensions for working with dates and decoding JSON, this package aims to reduce boilerplate and enhance productivity.
+Xcode 15.2 and newer.
 
 ## Components
 
